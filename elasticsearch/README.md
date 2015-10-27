@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 elasticsearch Cookbook
 ======================
 TODO: Enter the cookbook description here.
@@ -70,4 +69,3 @@ Authors: TODO: List authors
 =======
 =======
 
->>>>>>> 3525e1caaf628ad4f392a1e48d60b08f6ade653b
